@@ -1,0 +1,21 @@
+{
+  "name": "newline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.23.0",
+    "@types/node": "^24.10.1",
+    "clipboardy": "^5.0.1",
+    "typescript": "^5.9.3",
+    "zod": "^4.1.13"
+  }
+}
